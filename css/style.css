@@ -46,3 +46,25 @@ aside nav ul li a:hover {
 	background: #ff5252;
 	cursor: pointer;
 }
+main {
+	height: calc(100vh - 100px);
+	width: calc(100% - 150px);
+	float: left;
+	padding: 30px 25px 30px 35px;
+	box-sizing: border-box;
+	overflow: auto;
+}
+main .section {
+	margin: 0 auto;
+	max-width: 750px;
+}
+main .section .article {
+	margin-bottom: 60px;
+}
+main .section .article p {
+	text-align: justify;
+	font-size: 18px;
+}
+.poet {
+	width: 300px;
+}
