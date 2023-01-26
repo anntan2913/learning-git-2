@@ -40,4 +40,9 @@ aside nav ul li a {
 	box-sizing: border-box;
 	text-decoration: underline;
 	font-weight: bold;
+    color: #fff;
+}
+aside nav ul li a:hover {
+	background: #ff5252;
+	cursor: pointer;
 }
