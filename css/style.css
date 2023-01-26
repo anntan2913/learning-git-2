@@ -1,0 +1,9 @@
+/* Global */
+$color-main: #b33939;
+$color-light: #f7f1e3;
+$font-text: 'Josefin Sans', sans-serif;
+$font-header: 'Yeseva One', cursive;
+
+body {
+	margin: 0;
+}
