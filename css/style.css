@@ -69,11 +69,11 @@ main .section .article p {
 	width: 300px;
 }
 footer {
-	height: 30px;
-    padding: 5px;
+	height: 50px;
+    padding: 16px;
 	box-sizing: border-box;
 	clear: both;
-	text-align: right;
-	background: #2c2c54;
-	color: #f7f1e3;
+	text-align: center;
+	background: #e6b188;
+	color: #470a0a;
 }
